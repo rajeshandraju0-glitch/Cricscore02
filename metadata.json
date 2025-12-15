@@ -1,0 +1,5 @@
+{
+  "name": "CricScore SaaS",
+  "description": "A futuristic local cricket scoring SaaS application with role-based dashboards and tournament management.",
+  "requestFramePermissions": []
+}
